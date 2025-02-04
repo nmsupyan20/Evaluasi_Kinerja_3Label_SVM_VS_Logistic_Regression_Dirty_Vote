@@ -1,0 +1,2 @@
+# Evaluasi_Kinerja_3Label_SVM_VS_Logistic_Regression_Dirty_Vote
+Evaluasi Kinerja 3 Kernel SVM dan Logistic Regression
